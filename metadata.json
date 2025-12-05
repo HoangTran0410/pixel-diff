@@ -1,0 +1,5 @@
+{
+  "name": "PixelDiff",
+  "description": "A high-performance in-browser image comparison tool using pixelmatch. Detect differences between images with configurable sensitivity, anti-aliasing detection, and color masking.",
+  "requestFramePermissions": []
+}
