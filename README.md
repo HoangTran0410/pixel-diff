@@ -1,5 +1,9 @@
 # PixelDiff
 
+<!-- aio-desktop-badge:start -->
+[![AIO Desktop](https://img.shields.io/badge/Try-AIO_Desktop-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fbaio.org/#/desktop)
+<!-- aio-desktop-badge:end -->
+
 A visual regression testing tool for comparing images pixel by pixel. Built with React, TypeScript, and [pixelmatch](https://github.com/mapbox/pixelmatch).
 
 ## Features
@@ -14,7 +18,7 @@ A visual regression testing tool for comparing images pixel by pixel. Built with
 
 ## Demo
 
-[View live demo](https://hoangtran0410.github.io/pixel-diff)
+[View live demo](https://hoangtran99.is-a.dev/pixel-diff/)
 
 ## Screenshot
 
@@ -161,3 +165,11 @@ This project is open source and available under the MIT License.
 ## Author
 
 [hoangtran0410](https://github.com/hoangtran0410) + [Gemini](https://ai.studio)
+
+<!-- aio-desktop:start -->
+### 🖥️ AIO Desktop
+
+**EN:** Find this app and many more free tools & games in **[AIO Desktop](https://fbaio.org/#/desktop)**, a Windows/macOS-style web desktop by Social AIO. [▶ Open AIO Desktop](https://fbaio.org/#/desktop)
+
+**VI:** Xem app này cùng nhiều công cụ, trò chơi miễn phí khác trong **[AIO Desktop](https://fbaio.org/#/desktop)**, màn kiểu Windows/macOS của Social AIO. [▶ Mở AIO Desktop](https://fbaio.org/#/desktop)
+<!-- aio-desktop:end -->

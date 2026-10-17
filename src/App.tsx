@@ -158,6 +158,16 @@ const App: React.FC = () => {
             <Github size={14} />
             <span>View Source</span>
           </a>
+          {window.self === window.top && (
+            <a
+              href="https://fbaio.org/#/desktop"
+              target="_blank"
+              rel="noopener"
+              className="mt-2 text-xs text-gray-600 hover:text-gray-400 flex items-center justify-center gap-2 transition-colors"
+            >
+              <span>More tools &amp; games: AIO Desktop</span>
+            </a>
+          )}
         </div>
       </aside>
 
